@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahman Sharar</h1>
-<h3 align="center">A novice Data Scientist/Analyst from Dhaka, Bangladesh</h3>
+<h3 align="center">A novice Data Scientist/Analyst with a firm grasp over SQL (Oracle DBMS, MySQL, PostgreSQL, BigQuery) and the Python programming language, including its pandas, NumPy, SciPy, matplotlib, seaborn, pyfolio, QuantStats, and TensorFlow libraries. 
+I also have a year's worth of experience with Large Language Models, especially BERT and GPT.</h3>
 
 - 💻 My undergraduate thesis was titled [MediBERT: A Medical Chatbot Built Using KeyBERT, BioBERT and GPT-2](https://www.mecs-press.org/ijisa/ijisa-v15-n4/IJISA-V15-N4-5.pdf)
 
